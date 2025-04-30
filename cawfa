@@ -3,3 +3,6 @@
 "Red Hat Ansible Automation Platform" 4
 "Getting started with Ansible Automation Platform" 5
 "How Ansible Works - Ansible Collaborative 1
+
+
+The proposed system leverages Ansible to automate the configuration and management of IT infrastructure. It includes playbooks for disabling insecure filesystems, ensuring separate partitions for critical directories, and setting secure mount options. This automation enhances system security, ensures compliance, and reduces manual effort, thereby improving overall efficiency and reliability.
